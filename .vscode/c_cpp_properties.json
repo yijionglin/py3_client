@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/th20988/python3_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/th20988/python3_ws/src/geometry/eigen_conversions/include/**",
+        "/home/th20988/python3_ws/src/geometry/kdl_conversions/include/**",
+        "/home/th20988/python3_ws/src/py3_server/include/**",
+        "/home/th20988/python3_ws/src/geometry/tf/include/**",
+        "/home/th20988/python3_ws/src/geometry2/tf2/include/**",
+        "/home/th20988/python3_ws/src/geometry2/tf2_bullet/include/**",
+        "/home/th20988/python3_ws/src/geometry2/tf2_eigen/include/**",
+        "/home/th20988/python3_ws/src/geometry2/tf2_geometry_msgs/include/**",
+        "/home/th20988/python3_ws/src/geometry2/tf2_kdl/include/**",
+        "/home/th20988/python3_ws/src/geometry2/tf2_msgs/include/**",
+        "/home/th20988/python3_ws/src/geometry2/tf2_ros/include/**",
+        "/home/th20988/python3_ws/src/geometry2/tf2_sensor_msgs/include/**",
+        "/home/th20988/python3_ws/src/geometry/tf_conversions/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
